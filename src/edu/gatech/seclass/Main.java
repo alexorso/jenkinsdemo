@@ -8,7 +8,7 @@ public class Main {
         }
         int iterations = Integer.parseInt(args[0]);
         for (int i=0; i < iterations; i++) {
-            System.out.println("Iteration #" + (i + 1));
+            System.out.println("Iteration" + (i + 1));
         }
     }
 }
